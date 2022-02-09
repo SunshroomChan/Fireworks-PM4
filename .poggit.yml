@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SunshroomChan/Fireworks-PM4
+build-by-default: true
+branches:
+- master
+projects:
+  Fireworks-PM4:
+    path: ""
+...
