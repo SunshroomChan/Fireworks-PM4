@@ -1,6 +1,6 @@
 # Fireworks-PM4
-A plugin by BlockHozirons and updated to API 4 by me
-Fixed some and support latest Pocketmine-MP version
+A plugin by BlockHozirons and updated to API 4 by<br>
+Fixed some and support latest Pocketmine-MP verion<br>
 This plugin will add Fireworks to your Pocketmine Server
 ## API
 ### Adding firework items to a player's inventory
